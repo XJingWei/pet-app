@@ -14,7 +14,7 @@
   <thead>
   <tr>
     <th>我的微信，互相学习，讨论问题</th>
-    <th>APP端（安卓APP、苹果APP）</th>
+    <th>APP端（安卓\苹果APP）</th>
     <th>小程序端</th>
     <th>手机H5端</th>
   </tr>
@@ -28,7 +28,7 @@
         <img width="120px" src="https://foruda.gitee.com/images/1684052614684609431/fbd0b48a_911913.png">
       </td>
       <td align="center" valign="middle">
-         <img width="120px" src=https://foruda.gitee.com/images/1684052166819146365/ef9375fe_911913.jpeg">
+         <img width="120px" src="https://foruda.gitee.com/images/1684052166819146365/ef9375fe_911913.jpeg">
       </td>
       <td align="center" valign="middle">
          <img width="100px" src="https://www.youmao.pro/image/h5_code.png">
