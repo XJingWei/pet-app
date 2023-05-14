@@ -8,12 +8,16 @@
 #### 项目演示
 1. 用户端：https://www.youmao.pro
 2. 管理端：https://www.chongyou.info
-3. 小程序：
-![小程序](https://foruda.gitee.com/images/1684052166819146365/ef9375fe_911913.jpeg "小程序.jpeg")
+3. 小程序端：
+
+   <img src="https://foruda.gitee.com/images/1684052166819146365/ef9375fe_911913.jpeg" width="120" alt="微信小程序"/>
 4. 手机 H5端：
-![手机H5](https://www.youmao.pro/image/h5_code.png "手机H5")
+
+   <img src="https://www.youmao.pro/image/h5_code.png" width="120" alt="手机H5端"/>
+
 5. 手机 APP端：
-![APP端](https://foruda.gitee.com/images/1684052614684609431/fbd0b48a_911913.png "APP端.png")
+ 
+   <img src="https://foruda.gitee.com/images/1684052614684609431/fbd0b48a_911913.png" width="120" alt="APP端"/>
 
 
 #### 相关链接
@@ -22,7 +26,8 @@
 详细功能说明：https://www.yuque.com/ecvnlg/bi6m7t
 
 #### 软件架构
-![项目架构图](https://cdn.nlark.com/yuque/0/2023/jpeg/2176167/1681478747458-0268eabc-de05-410a-b2aa-521b5deeddbd.jpeg?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_40%2Ctext_5a6g5Y-L5L-h5oGveW91bWFvLnBybw%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10 "项目架构图")
+<img src="友猫系统技术架构图.jpg" width="120" alt="项目架构图"/>
+
 前端使用uni-app开发, uni-app 是一个使用 Vue.js 开发所有前端应用的框架。
 开发者编写一套代码，可发布到iOS、Android、H5、以及各种小程序（微信/支付宝/抖音/QQ）等多个平台。
 后端：SpringBoot微服务架构
