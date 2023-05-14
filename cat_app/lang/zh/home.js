@@ -1,0 +1,24 @@
+export default {
+	emptyFollow:'您关注的用户还没有动态呢~',
+	emptyData:'暂无新数据~',
+	emptyDesc:'别那么高冷啦,快去关注更多小伙伴吧~',
+	defSearch:'大家都在搜“流浪猫狗不流浪”',
+	rangeEmpty:'{range}公里范围内还没有用户',
+	range:'{range}公里范围内有{people}人',
+	total:'累计获食',
+	find:'发现',
+	nearby:'附近猫',
+	//上面是页面显示内容,下面是页面使用的提示语
+	locationAskTitle:'是否授权当前位置',
+	locationAskContent:'需要获取您的地理位置，请确认授权，否则地图功能将无法使用',
+	locationSuccess:'授权成功',
+	locationFail:'授权失败',
+	noLocationAuth:'请在系统设置中打开定位服务',
+	upToast:'为您更新了{num}条记录',
+	oftenToast:'频率太快啦，稍等会呗',
+	newVersion:'发现新版本',
+	upgrading:'正在为您下载,请耐心等待',
+	verDesc:'本次版本更新描述内容:',
+	bgDL:'后台下载',
+	cancelDL:'取消下载'
+}

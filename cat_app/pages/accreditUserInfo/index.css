@@ -1,0 +1,45 @@
+/* pages/accreditUserInfo/index.wxss */
+button::after{
+  border: none;
+}
+button{
+  font-size: 28rpx;
+  border: none;
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+}
+.conent{
+  position: relative;
+}
+.background{
+  margin-left: 108rpx;
+  margin-top: 180rpx;
+  width: 100%;
+  height: 700rpx;
+}
+.accreditView{
+  position: absolute;
+  z-index: 99;
+  top: 80rpx;
+  width: 100%;
+}
+.vice-conent{
+  font-size: 30rpx;
+  margin-top: 20rpx;
+}
+.auth-txt{
+  font-size: 50rpx;
+  font-weight: bold;
+  /* text-align: center; */
+  /* margin: 300rpx 20rpx 80rpx; */
+}
+.auth-op{
+  /* padding: 0 100rpx; */
+  padding: 600rpx 130rpx 100rpx 130rpx;
+}
+.auth-btn{
+  padding: 28rpx 160rpx;
+  font-size: 32rpx;
+  border-radius:20px;
+}
