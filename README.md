@@ -6,18 +6,37 @@
 - 具备特点：社区（图文、视频发布、文章、话题、圈子、问答、附近、点赞、评论、关注、IM即时通讯、积分模块、头像挂件、VIP会员、消息推送通知、商城 等等）
 
 #### 项目演示
-1. 用户端：https://www.youmao.pro
-2. 管理端：https://www.chongyou.info
-3. 小程序端：
 
-   <img src="https://foruda.gitee.com/images/1684052166819146365/ef9375fe_911913.jpeg" width="120" alt="微信小程序"/>
-4. 手机 H5端：
+-  1. 用户端： https://www.youmao.pro
+-  2. 管理端： https://www.chongyou.info
 
-   <img src="https://www.youmao.pro/image/h5_code.png" width="120" alt="手机H5端"/>
-
-5. 手机 APP端：
- 
-   <img src="https://foruda.gitee.com/images/1684052614684609431/fbd0b48a_911913.png" width="120" alt="APP端"/>
+<table>
+  <thead>
+  <tr>
+    <th>我的微信，互相学习，讨论问题</th>
+    <th>APP端（安卓APP、苹果APP）</th>
+    <th>小程序端</th>
+    <th>手机H5端</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td align="center" valign="middle">
+        <img width="120px" src="%E6%88%91%E7%9A%84%E4%BF%A1%E6%81%AF.jpg">
+      </td>
+      <td align="center" valign="middle">
+        <img width="120px" src="https://foruda.gitee.com/images/1684052614684609431/fbd0b48a_911913.png">
+      </td>
+      <td align="center" valign="middle">
+         <img width="120px" src=https://foruda.gitee.com/images/1684052166819146365/ef9375fe_911913.jpeg">
+      </td>
+      <td align="center" valign="middle">
+         <img width="100px" src="https://www.youmao.pro/image/h5_code.png">
+      </td>
+    </tr>
+  <tr></tr>
+  </tbody>
+</table>
 
 
 #### 相关链接
