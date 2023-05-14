@@ -21,21 +21,25 @@
 
 
 #### 相关链接
-官网：https://www.chongyou.info
-友猫项目演示网站：https://www.youmao.pro
-详细功能说明：https://www.yuque.com/ecvnlg/bi6m7t
+
+- 官网：https://www.chongyou.info
+- 友猫项目演示网站：https://www.youmao.pro
+- 详细功能说明：https://www.yuque.com/ecvnlg/bi6m7t
+
 
 #### 软件架构
-<img src="友猫系统技术架构图.jpg" width="120" alt="项目架构图"/>
 
-前端使用uni-app开发, uni-app 是一个使用 Vue.js 开发所有前端应用的框架。
-开发者编写一套代码，可发布到iOS、Android、H5、以及各种小程序（微信/支付宝/抖音/QQ）等多个平台。
-后端：SpringBoot微服务架构
-数据库：MySql、Redis、ES
+![输入图片说明](%E5%8F%8B%E7%8C%AB%E7%B3%BB%E7%BB%9F%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
+
+- 前端使用uni-app开发, uni-app 是一个使用 Vue.js 开发所有前端应用的框架。
+- 开发者编写一套代码，可发布到iOS、Android、H5、以及各种小程序（微信/支付宝/抖音/QQ）等多个平台。
+- 后端：SpringBoot微服务架构
+- 数据库：MySql、Redis、ES
+
 
 
 #### 项目截图
-
+![输入图片说明](%E5%8A%9F%E8%83%BD%E9%A2%84%E8%A7%88%E5%9B%BE.jpg)
 
 #### 功能介绍
 ```
