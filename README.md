@@ -13,7 +13,7 @@
 <table>
   <thead>
   <tr>
-    <th>互相学习，讨论问题或咨询</th>
+    <th>商用源码购买咨询</th>
     <th>APP端(安卓\苹果APP)</th>
     <th>小程序端</th>
     <th>手机H5端</th>
